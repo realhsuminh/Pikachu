@@ -1,0 +1,88 @@
+C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\bin\Debug\Game_Pikachu.exe.config
+C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\bin\Debug\Game_Pikachu.exe
+C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\bin\Debug\Game_Pikachu.pdb
+C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.AssemblyReference.cache
+C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.SuggestedBindingRedirects.cache
+C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\obj\Debug\Interop.WMPLib.dll
+C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.ResolveComReference.cache
+C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\obj\Debug\Game_Pikachu.NewSelectForm.resources
+C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\obj\Debug\Game_Pikachu.PlayForm.resources
+C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\obj\Debug\Game_Pikachu.Properties.Resources.resources
+C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\obj\Debug\Game_Pikachu.UserForm.resources
+C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.GenerateResource.cache
+C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.CoreCompileInputs.cache
+C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\obj\Debug\Game_Pikachu.exe
+C:\Users\trant\Downloads\Edge\Pikachu-master\Game_Pikachu\obj\Debug\Game_Pikachu.pdb
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.AssemblyReference.cache
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.ResolveComReference.cache
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.NewSelectForm.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.PlayForm.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.Properties.Resources.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.UserForm.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.GenerateResource.cache
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.CoreCompileInputs.cache
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.exe
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.pdb
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\bin\Debug\Game_Pikachu.exe.config
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\bin\Debug\Game_Pikachu.exe
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\bin\Debug\Game_Pikachu.pdb
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Interop.WMPLib.dll
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.SelectPlayer.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Game_Pikachu\obj\Debug\Game_Pikachu.Connect.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\bin\Debug\Game_Pikachu.exe.config
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\bin\Debug\Game_Pikachu.exe
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\bin\Debug\Game_Pikachu.pdb
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.AssemblyReference.cache
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\obj\Debug\Interop.WMPLib.dll
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.ResolveComReference.cache
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.Connect.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.NewSelectForm.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.PlayForm.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.Properties.Resources.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.UserForm.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.SelectPlayer.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.GenerateResource.cache
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.CoreCompileInputs.cache
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.exe
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.pdb
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\bin\Debug\Game_Pikachu.exe.config
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\bin\Debug\Game_Pikachu.exe
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\bin\Debug\Game_Pikachu.pdb
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.AssemblyReference.cache
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Interop.WMPLib.dll
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.ResolveComReference.cache
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.Connect.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.NewSelectForm.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.PlayForm.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.Properties.Resources.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.UserForm.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.SelectPlayer.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.GenerateResource.cache
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.CoreCompileInputs.cache
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.exe
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.pdb
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.Playformwith_1player.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\bin\Debug\Sounds and img Sounds\Content\101-opening (online-audio-converter.com).wav
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\bin\Debug\Sounds and img Sounds\Content\102-palette town theme.mp3
+C:\DoAnLTM\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.Instruction.resources
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\bin\Debug\Sounds and img Sounds\Content\101-opening (online-audio-converter.com).wav
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\bin\Debug\Sounds and img Sounds\Content\102-palette town theme.mp3
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\bin\Debug\Game_Pikachu.exe.config
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\bin\Debug\Game_Pikachu.exe
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\bin\Debug\Game_Pikachu.pdb
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.AssemblyReference.cache
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.SuggestedBindingRedirects.cache
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Interop.WMPLib.dll
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.ResolveComReference.cache
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.Connect.resources
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.NewSelectForm.resources
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.PlayForm.resources
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.Instruction.resources
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.Playformwith_1player.resources
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.Properties.Resources.resources
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.UserForm.resources
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.SelectPlayer.resources
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.GenerateResource.cache
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.csproj.CoreCompileInputs.cache
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.exe
+C:\Users\trant\Downloads\App\Zalo\NT106_Pikachu_Nhom12 - Copy - Copy\Game_Pikachu\obj\Debug\Game_Pikachu.pdb

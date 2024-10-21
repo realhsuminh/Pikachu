@@ -1,0 +1,10 @@
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Server\bin\Debug\Server.exe.config
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Server\bin\Debug\Server.exe
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Server\bin\Debug\Server.pdb
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Server\obj\Debug\Server.Form1.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Server\obj\Debug\Server.Properties.Resources.resources
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Server\obj\Debug\Server.exe
+C:\DoAnLTM\NT106_Pikachu_Nhom12\Server\obj\Debug\Server.pdb
